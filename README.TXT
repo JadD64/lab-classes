@@ -1,18 +1,22 @@
-Project: lab-classes
-Authors: David J. Barnes and Michael Kölling
+Calling the getName brings up the method result, with the string giving the name.
 
-This project is part of the material for the book
+Calling the numberOfStudents brings up the method result informing us through
+the int that 0 students (or whatever amount) are currently enrolled in this LabClass.
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-   Pearson Education
+0: int
+“hello”: string
+101: int
+-1: int
+true: boolean
+“33”: string
+3.1415: double
 
-It is discussed in chapter 1.
+To add a new field to a circle object, you would have to add it to the the circle's code.
 
-The purpose of this project is to illustrate object interaction and to examine
-some simple code. See chapters one and three of the book.
+public void send()
 
-To use this project, create some Student objects, then create a LabClass object.
-Add the students to the class using the "enrolStudent" method. Print a class
-list.
+public  int average()
+
+The book I'm reading is an object, its class is book
+
+An object can not have several classes, only one.
