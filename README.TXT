@@ -13,7 +13,7 @@ true: boolean
 
 To add a new field to a circle object, you would have to add it to the the circle's code.
 
-public void send()
+public void send(String)
 
 public  int average()
 
